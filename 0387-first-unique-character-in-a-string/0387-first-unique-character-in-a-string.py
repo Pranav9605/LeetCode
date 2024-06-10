@@ -1,6 +1,5 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        # Count the occurrences of each character
         count = {}
         for char in s:
             if char in count:
@@ -8,7 +7,6 @@ class Solution:
             else:
                 count[char] = 1
         
-        # Find the first unique character
         for i, char in enumerate(s):
             if count[char] == 1:
                 return i
