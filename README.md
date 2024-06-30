@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Pranav9605/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Pranav9605/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Pranav9605/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
