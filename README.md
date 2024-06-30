@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Pranav9605/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Pranav9605/LeetCode/tree/master/0183-customers-who-never-order) |
 | [1258-article-views-i](https://github.com/Pranav9605/LeetCode/tree/master/1258-article-views-i) |
+| [2024-calculate-special-bonus](https://github.com/Pranav9605/LeetCode/tree/master/2024-calculate-special-bonus) |
 ## Two Pointers
 |  |
 | ------- |
