@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Pranav9605/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Pranav9605/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0409-longest-palindrome) |
 ## Sliding Window
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
 | [2507-number-of-common-factors](https://github.com/Pranav9605/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
@@ -67,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0409-longest-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
