@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pranav9605/LeetCode/tree/master/0027-remove-element) |
 | [0219-contains-duplicate-ii](https://github.com/Pranav9605/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
+| [1791-richest-customer-wealth](https://github.com/Pranav9605/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranav9605/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Pranav9605/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
