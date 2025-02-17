@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Pranav9605/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
 | [1791-richest-customer-wealth](https://github.com/Pranav9605/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2048-build-array-from-permutation](https://github.com/Pranav9605/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Pranav9605/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Pranav9605/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
