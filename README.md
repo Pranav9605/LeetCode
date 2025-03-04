@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0409-longest-palindrome) |
 | [1970-sorting-the-sentence](https://github.com/Pranav9605/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav9605/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav9605/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Pranav9605/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
 | [2507-number-of-common-factors](https://github.com/Pranav9605/LeetCode/tree/master/2507-number-of-common-factors) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav9605/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Pranav9605/LeetCode/tree/master/2507-number-of-common-factors) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav9605/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -128,4 +131,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Pranav9605/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav9605/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav9605/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
