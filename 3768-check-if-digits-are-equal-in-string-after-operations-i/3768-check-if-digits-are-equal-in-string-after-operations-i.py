@@ -1,9 +1,6 @@
 class Solution:
     def hasSameDigits(self, s: str) -> bool:
 
-        # a = [int(ch) for ch in s]
-        # a=int(s)
-        # print(a)
 
         while len(s)>2:
             a=""
