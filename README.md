@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranav9605/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pranav9605/LeetCode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/Pranav9605/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pranav9605/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pranav9605/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0409-longest-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/Pranav9605/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Pranav9605/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav9605/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav9605/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
