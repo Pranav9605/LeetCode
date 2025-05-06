@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Pranav9605/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0409-longest-palindrome) |
 | [0551-student-attendance-record-i](https://github.com/Pranav9605/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Pranav9605/LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1894-merge-strings-alternately](https://github.com/Pranav9605/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Pranav9605/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav9605/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
