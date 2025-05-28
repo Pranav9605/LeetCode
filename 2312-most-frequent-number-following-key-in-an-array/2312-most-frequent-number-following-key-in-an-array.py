@@ -8,8 +8,8 @@ class Solution:
                 
                 else:
                     target[nums[x+1]]=1
-        a=max(target, key=lambda k: target[k]) 
-        return a
+        return max(target, key=lambda k: target[k]) 
+        
 
 
 
