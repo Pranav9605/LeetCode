@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pranav9605/LeetCode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/Pranav9605/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pranav9605/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Pranav9605/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Pranav9605/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranav9605/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Pranav9605/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pranav9605/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranav9605/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pranav9605/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pranav9605/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1970-sorting-the-sentence](https://github.com/Pranav9605/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Linked List
 |  |
