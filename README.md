@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Pranav9605/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Pranav9605/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2507-number-of-common-factors](https://github.com/Pranav9605/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pranav9605/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3625-stone-removal-game](https://github.com/Pranav9605/LeetCode/tree/master/3625-stone-removal-game) |
