@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Pranav9605/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Pranav9605/LeetCode/tree/master/1013-fibonacci-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Pranav9605/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2507-number-of-common-factors](https://github.com/Pranav9605/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pranav9605/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Pranav9605/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Pranav9605/LeetCode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -186,4 +188,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav9605/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Pranav9605/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Pranav9605/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
