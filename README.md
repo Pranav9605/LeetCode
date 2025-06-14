@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Pranav9605/LeetCode/tree/master/1013-fibonacci-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Pranav9605/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2507-number-of-common-factors](https://github.com/Pranav9605/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav9605/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pranav9605/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3625-stone-removal-game](https://github.com/Pranav9605/LeetCode/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav9605/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0409-longest-palindrome) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Pranav9605/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav9605/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search
 |  |
 | ------- |
