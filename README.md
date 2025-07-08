@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranav9605/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Pranav9605/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Pranav9605/LeetCode/tree/master/0278-first-bad-version) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pranav9605/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
 |  |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Pranav9605/LeetCode/tree/master/1013-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Pranav9605/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
