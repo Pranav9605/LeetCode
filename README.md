@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Pranav9605/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Pranav9605/LeetCode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Pranav9605/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/Pranav9605/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pranav9605/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Pranav9605/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranav9605/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pranav9605/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Pranav9605/LeetCode/tree/master/0948-sort-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/Pranav9605/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pranav9605/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1970-sorting-the-sentence](https://github.com/Pranav9605/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Linked List
