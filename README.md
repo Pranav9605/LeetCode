@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pranav9605/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [1708-design-parking-system](https://github.com/Pranav9605/LeetCode/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Pranav9605/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pranav9605/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1708-design-parking-system](https://github.com/Pranav9605/LeetCode/tree/master/1708-design-parking-system) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav9605/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav9605/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/Pranav9605/LeetCode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/Pranav9605/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Pranav9605/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3625-stone-removal-game](https://github.com/Pranav9605/LeetCode/tree/master/3625-stone-removal-game) |
