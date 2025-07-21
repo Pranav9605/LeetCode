@@ -3,7 +3,7 @@ class Solution:
         res=''
         cnt=0
         for x in range(len(s)):
-            if x>0 and s[x]==s[x-1]:
+            if s[x]==s[x-1]:
                 cnt+=1
             else:
                 cnt=1
