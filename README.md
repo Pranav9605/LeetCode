@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pranav9605/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Pranav9605/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1813-maximum-erasure-value](https://github.com/Pranav9605/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pranav9605/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Pranav9605/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Pranav9605/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Pranav9605/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pranav9605/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/Pranav9605/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav9605/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav9605/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav9605/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Pranav9605/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pranav9605/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/Pranav9605/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Stack
 |  |
 | ------- |
