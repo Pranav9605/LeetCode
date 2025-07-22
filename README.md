@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav9605/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Pranav9605/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/Pranav9605/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Pranav9605/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pranav9605/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav9605/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Pranav9605/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Pranav9605/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav9605/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pranav9605/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Pranav9605/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3625-stone-removal-game](https://github.com/Pranav9605/LeetCode/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav9605/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
