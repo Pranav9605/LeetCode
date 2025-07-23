@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pranav9605/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav9605/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Pranav9605/LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Pranav9605/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Pranav9605/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Pranav9605/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1970-sorting-the-sentence](https://github.com/Pranav9605/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranav9605/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Pranav9605/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Pranav9605/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0409-longest-palindrome) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Pranav9605/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Pranav9605/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav9605/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search
