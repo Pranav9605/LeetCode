@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Pranav9605/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranav9605/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/Pranav9605/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2551-apply-operations-to-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Pranav9605/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Pranav9605/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Pranav9605/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/Pranav9605/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pranav9605/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/Pranav9605/LeetCode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/Pranav9605/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Pranav9605/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2551-apply-operations-to-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3625-stone-removal-game](https://github.com/Pranav9605/LeetCode/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav9605/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranav9605/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
