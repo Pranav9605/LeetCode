@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/Pranav9605/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pranav9605/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranav9605/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/Pranav9605/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Hash Table
 |  |
 | ------- |
