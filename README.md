@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Pranav9605/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/Pranav9605/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Pranav9605/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/Pranav9605/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pranav9605/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranav9605/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav9605/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav9605/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Pranav9605/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pranav9605/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pranav9605/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav9605/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Pranav9605/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Sorting
 |  |
 | ------- |
