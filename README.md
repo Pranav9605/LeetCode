@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Pranav9605/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Pranav9605/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Pranav9605/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Pranav9605/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
