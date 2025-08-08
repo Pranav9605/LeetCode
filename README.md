@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Pranav9605/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/Pranav9605/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pranav9605/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1044-find-common-characters](https://github.com/Pranav9605/LeetCode/tree/master/1044-find-common-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav9605/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Pranav9605/LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Pranav9605/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranav9605/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pranav9605/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Pranav9605/LeetCode/tree/master/0948-sort-an-array) |
+| [1044-find-common-characters](https://github.com/Pranav9605/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Pranav9605/LeetCode/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/Pranav9605/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Pranav9605/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pranav9605/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pranav9605/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1044-find-common-characters](https://github.com/Pranav9605/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Pranav9605/LeetCode/tree/master/1217-relative-sort-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Pranav9605/LeetCode/tree/master/1813-maximum-erasure-value) |
