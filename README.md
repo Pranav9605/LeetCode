@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Pranav9605/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/Pranav9605/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2881-split-strings-by-separator](https://github.com/Pranav9605/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Pranav9605/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/Pranav9605/LeetCode/tree/master/3194-find-words-containing-character) |
