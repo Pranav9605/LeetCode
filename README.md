@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pranav9605/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranav9605/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pranav9605/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0792-binary-search](https://github.com/Pranav9605/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Pranav9605/LeetCode/tree/master/0948-sort-an-array) |
 | [1044-find-common-characters](https://github.com/Pranav9605/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Pranav9605/LeetCode/tree/master/1217-relative-sort-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Pranav9605/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranav9605/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pranav9605/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/Pranav9605/LeetCode/tree/master/0792-binary-search) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pranav9605/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranav9605/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
