@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Pranav9605/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Pranav9605/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Pranav9605/LeetCode/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/Pranav9605/LeetCode/tree/master/1448-maximum-69-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Pranav9605/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Pranav9605/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2507-number-of-common-factors](https://github.com/Pranav9605/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Pranav9605/LeetCode/tree/master/0409-longest-palindrome) |
+| [1448-maximum-69-number](https://github.com/Pranav9605/LeetCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Pranav9605/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Pranav9605/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav9605/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
