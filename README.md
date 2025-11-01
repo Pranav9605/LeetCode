@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/Pranav9605/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Pranav9605/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/Pranav9605/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Pranav9605/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Pranav9605/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav9605/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pranav9605/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav9605/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Pranav9605/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Pranav9605/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav9605/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pranav9605/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pranav9605/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav9605/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav9605/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Pranav9605/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Pranav9605/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pranav9605/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
