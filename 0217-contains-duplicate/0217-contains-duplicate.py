@@ -1,8 +1,11 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        a=Counter(nums)
-        for x,y in a.items():
-            if y>1:
+        dict1={}
+        for x in nums:
+            if x in dict1:
                 return True
+            else:
+                dict1[x]=1
         return False
+
         
